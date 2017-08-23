@@ -1,0 +1,19 @@
+/*************************************************************************
+*
+* 	Discription : A Demo code for Lab
+* 	Author      : Biju
+* 	Company     : Emertxe info tech
+*
+ *************************************************************************/
+
+#include <QtWidgets/QApplication>
+#include "mainwindow.h"
+
+int main( int argc, char** argv ) {
+    QApplication app( argc, argv );
+
+    MainWindow mw;
+    mw.show();
+
+    return app.exec();
+}
