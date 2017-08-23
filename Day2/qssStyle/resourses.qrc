@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>emertxe-logo.png</file>
+    </qresource>
+    <qresource prefix="/music"/>
+    <qresource prefix="/icons"/>
+</RCC>
